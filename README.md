@@ -16,7 +16,7 @@ TODO:
 | Beep | Beep | It beeps, very cool I know. | Disable |
 | PeerDistSvc | BranchCache | Caches network content from peers on the **local** subnet | Disable |
 | autotimesvc | Cellular Time | Sets time based on NITZ messages from a mobile network. | Disable |
-| CAD | Charge Arbitration Driver | Seems to a battery life control driver to extend the age of the laptop driver. | Disable |
+| CAD | Charge Arbitration Driver | Seems to a battery life control driver to extend the age of the laptop battery. | Disable |
 | cbdhsvc | Clipboard User Service | Controls Clipboard History, not required for regular clipboard functionality | Disable |
 | CompositeBus | Composite Bus Enumerator Driver | Can't seem to find the actual functionality yet. | Disable |
 
