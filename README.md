@@ -19,6 +19,11 @@ TODO:
 | CAD | Charge Arbitration Driver | Seems to a battery life control driver to extend the age of the laptop battery. | Disable |
 | cbdhsvc | Clipboard User Service | Controls Clipboard History, not required for regular clipboard functionality | Disable |
 | CompositeBus | Composite Bus Enumerator Driver | Can't seem to find the actual functionality yet. | Disable |
+| afunix | Afunix | Interprocess communication, [rarely needed](https://devblogs.microsoft.com/commandline/windowswsl-interop-with-af_unix/). | Disable | 
+| BthAvctpSvc | AVCTP | Bluetooth service, can run even with no bluetooth devices. | Disable if not using BT |
+| cdrom | CD-ROM | May need for VMWare tools installation on VMWare VMs. | Disable |
+
+
 
 
 
